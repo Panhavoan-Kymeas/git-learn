@@ -1,1 +1,1 @@
-# learning about git and github
+# Learning about Git and Github
